@@ -1,0 +1,9 @@
+Minimum Spanning Tree - For a weighted graph, DFS traversal of the graph produces the minimum spanning tree.
+
+Detecting cycle in a graph - While performing DFS, we find back edges that are useful for detecting cycle in a graph.
+
+Path Finding - We can specialize the DFS algorithm to find a path between two given vertices u and z.
+
+Topological Sorting - 
+
+Finding Strongly Connected Components of a graph - A directed graph is called strongly connected if there is a path from each vertex in the graph to every other vertex
